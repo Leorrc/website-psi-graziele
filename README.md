@@ -1,7 +1,7 @@
 <div align="center">
 <picture>
   <source  srcset="https://raw.githubusercontent.com/Leorrc/website-psi-graziele/master/images/preview-1.png">
-  <img alt="Imagem preview" src="https://raw.githubusercontent.com/Leorrc/website-psi-graziele/master/preview-1.png" width="450px" height="400px">
+  <img alt="Imagem preview" src="https://raw.githubusercontent.com/Leorrc/website-psi-graziele/master/preview-1.png">
 </picture>
 </div>
 
